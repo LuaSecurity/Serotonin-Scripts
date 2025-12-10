@@ -48,6 +48,7 @@ function scheduler.tick()
     end
 end
 
+-- Moved to this position to ensure it runs in the main execution block
 cheat.register("onSlowUpdate", function()
     scheduler.tick()
 end)
