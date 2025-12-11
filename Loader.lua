@@ -28,7 +28,8 @@ local Username = LocalPlayer.Name
 
 --> Supported Games
 local games = {
-    [537413528] = {"Build A Boat For Treasure", "BABFT.lua"}
+    [537413528] = {"Build A Boat For Treasure", "BABFT.lua"},
+    [286090429] = {"Arsenal", "Arsenal.lua"},
 }
 
 local function GetGame(Id)
