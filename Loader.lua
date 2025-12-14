@@ -33,6 +33,8 @@ local games = {
     [155615604] = {"Prison Life", "PrisonLife.lua"},
     [142823291] = {"Murder Mystery 2", "MM2.lua"},
     [91282350711571] = {"Mad City Chapter 1", "MadCity.lua"},
+    [7215881810] = {"Strongest Punch Simulator", "SPS.lua"},
+    [6875469709] = {"Strongest Punch Simulator", "SPS.lua"},
 }
 
 local function GetGame(Id)
